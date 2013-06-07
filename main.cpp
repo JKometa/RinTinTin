@@ -5,10 +5,41 @@
 #include "Logic/Server.h"
 #include <string>
 #include <QTextCodec>
+#include <QDebug>
 int port = 10001;
 int maxUsers = 1024;
 
+
+
+
 int main(int argc, char *argv[]) {
+
+
+
+
+
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+
+
+
+
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+
+
+
+
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+    qDebug()<<"Dzialsdsdsdsdsdsdsa cos"<<endl;
+
+
 
     QTextCodec::setCodecForCStrings(QTextCodec::codecForName("UTF-8"));
 
